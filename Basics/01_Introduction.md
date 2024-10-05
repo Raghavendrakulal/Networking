@@ -10,4 +10,7 @@ Key components of computer networking include:
 5. **Security**: Measures to protect the network and data from unauthorized access and threats.
 
 Networking enables various applications, such as file sharing, internet access, and cloud services, making it a crucial aspect of modern computing.
+
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/137a0392-cfcf-4ae2-b9f1-b6890e3b9cfe">
+
+
