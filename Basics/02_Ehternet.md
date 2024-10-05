@@ -29,3 +29,6 @@ Ethernet is a widely used technology for local area networks (LANs). It defines 
 Ethernet is commonly used in homes, businesses, and data centers to connect computers, printers, servers, and other devices, forming the backbone of most local networks. With advancements like Power over Ethernet (PoE), it can also deliver electrical power along with data, simplifying installations for devices like IP cameras and VoIP phones.
 
 <img width="569" alt="image" src="https://github.com/user-attachments/assets/2633fed4-97fa-4277-9621-8868b01abc5f">
+
+
+
