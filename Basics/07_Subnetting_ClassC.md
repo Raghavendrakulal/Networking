@@ -286,3 +286,9 @@ Let’s take **192.168.30.0/24** and subnet it to create **2 subnets**.
 - **/28** gives you **16 subnets**, each with **14 usable IPs**.
 - **/25** gives you **2 subnets**, each with **126 usable IPs**.
 
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/12f16d1c-2eba-4dcd-92f9-000bfd65952a">
+
+![image](https://github.com/user-attachments/assets/6247fb82-2b2d-4abf-9569-f48b9b78ca42)
+
+
+![image](https://github.com/user-attachments/assets/7a0ddc98-4c76-41ba-9cd1-1320b326fbe4)
